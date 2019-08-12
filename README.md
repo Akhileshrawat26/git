@@ -1,5 +1,7 @@
 # StarterWeb
 
+Simple project
+
 ## Intro
 
 ## Deployment
