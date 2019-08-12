@@ -1,7 +1,9 @@
-#StarterWeb
+# StarterWeb
 
 ## Intro
 
-##Purpose
+## Deployment
 
-##How to contributr
+## Purpose
+
+## How to contributr
